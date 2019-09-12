@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practica2_Alicia/Parte_1_y_2.xst" -ofn "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practica2_Alicia/Parte_1_y_2.syr" 
+netgen -intstyle ise -ar Structure -tm Parte_1_y_2 -w -dir netgen/synthesis -ofmt vhdl -sim Parte_1_y_2.ngc Parte_1_y_2_synthesis.vhd 
+xst -intstyle ise -ifn "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practica2_Alicia/Parte_1_y_2.xst" -ofn "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practica2_Alicia/Parte_1_y_2.syr" 
+netgen -intstyle ise -ar Structure -tm Parte_1_y_2 -w -dir netgen/synthesis -ofmt vhdl -sim Parte_1_y_2.ngc Parte_1_y_2_synthesis.vhd 

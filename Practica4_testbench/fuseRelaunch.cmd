@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Ejercicios Clase/Practica4_testbench/Codigo_isim_beh.exe" -prj "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Ejercicios Clase/Practica4_testbench/Codigo_beh.prj" "work.Codigo" 

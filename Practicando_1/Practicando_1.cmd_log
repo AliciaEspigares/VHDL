@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practicando_1/Practicando_1.xst" -ofn "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practicando_1/Practicando_1.syr" 
+xst -intstyle ise -ifn "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practicando_1/Practicando_1.xst" -ofn "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practicando_1/Practicando_1.syr" 

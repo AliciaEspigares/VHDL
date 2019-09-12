@@ -1,0 +1,1 @@
+vhdtdtfi -prj Practica2_Alicia -o "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practica2_Alicia/Parte3.vhi" -module Parte3 -template H:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Parte3.vhd 

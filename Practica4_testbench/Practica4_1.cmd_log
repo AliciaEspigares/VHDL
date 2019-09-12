@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Ejercicios Clase/Practica4_testbench/Practica4_1.xst" -ofn "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Ejercicios Clase/Practica4_testbench/Practica4_1.syr" 

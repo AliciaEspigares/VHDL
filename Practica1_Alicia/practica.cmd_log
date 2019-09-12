@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practica1_Alicia/practica.xst" -ofn "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practica1_Alicia/practica.syr" 
+vhdtdtfi -lib work practica.vhd -prj Practica1_Alicia -o practica.spl -module practica -template H:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 practica.spl {H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practica1_Alicia/practica.sym} 
+vhdtdtfi -lib work practica.vhd -prj Practica1_Alicia -o practica.spl -module practica -template H:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 practica.spl {H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practica1_Alicia/practica.sym} 
+xst -intstyle ise -ifn "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practica1_Alicia/practica.xst" -ofn "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practica1_Alicia/practica.syr" 
+netgen -intstyle ise -ar Structure -tm practica -w -dir netgen/synthesis -ofmt vhdl -sim practica.ngc practica_synthesis.vhd 

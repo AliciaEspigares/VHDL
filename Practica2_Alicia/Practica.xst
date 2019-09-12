@@ -1,0 +1,5 @@
+set -tmpdir "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practica2_Alicia/xst/projnav.tmp"
+set -xsthdpdir "H:/Users/Alicia Espigares/Creciendo como ingeniera/Programming programes/VHDL/Practicando 1/Practica2_Alicia/xst"
+elaborate
+-ifn Practica.prj
+-ifmt mixed

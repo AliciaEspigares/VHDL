@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="1206" delta="new" >"H:\Users\Alicia Espigares\Creciendo como ingeniera\Programming programes\VHDL\Practicando 1\Practicando_1\Practicando_1.vhd" Line 41: Syntax error near &apos;<arg fmt="%s" index="1">#</arg>&apos;
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="old" >"H:\Users\Alicia Espigares\Creciendo como ingeniera\Programming programes\VHDL\Practicando 1\Practicando_1\Practicando_1.vhd" Line 35: Syntax error near &quot;<arg fmt="%s" index="1">end</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"H:\Users\Alicia Espigares\Creciendo como ingeniera\Programming programes\VHDL\Practicando 1\Practicando_1\Practicando_1.vhd" Line 41: Syntax error near &quot;<arg fmt="%s" index="1">#</arg>&quot;.
+</msg>
+
+</messages>
+
